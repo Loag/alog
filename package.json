@@ -1,0 +1,9 @@
+{
+  "name": "alog",
+  "version": "1.0.0",
+  "description": "useful logger",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  }
+}
